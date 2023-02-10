@@ -50,7 +50,7 @@ linkedin_username: petrasin
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/profile.jpg
+about_profile_image: /images/profile.webp
 about_content: |
   Hi, my name is Miloš, I'm a software developer with over a decade of professional experience currently specializing in Cloud Native development. I am currently working for SAP as a Lead Software Engineer on their cloud-based incentive and compensation management software, Commissions.
 
